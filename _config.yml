@@ -76,11 +76,11 @@ footer:
     enable: true
     icp: 京ICP备18015672号-1 京ICP备18015672号-2
     # The digit in the num of gongan beian.
-    gongan_id:
+    gongan_id: 11010802039469
     # The full num of gongan beian.
-    gongan_num:
+    gongan_num: 京公网安备 11010802039469号
     # The icon for gongan beian. See: http://www.beian.gov.cn/portal/download
-    gongan_icon_url:
+    gongan_icon_url: /images/gongan.png
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/share-your-work/licensing-types-examples
